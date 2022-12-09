@@ -1,5 +1,5 @@
 // Write your code here!
-const getMain() = document.getElementById("main");
+const getMain = document.getElementById("main");
 getMain.remove();
 
 const newHeader = document.createElement("h1");
